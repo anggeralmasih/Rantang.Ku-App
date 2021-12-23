@@ -1,0 +1,10 @@
+com/faizzakiramadhan_19104075/home/databinding/FragmentNotificationsBinding.java
+ com.faizzakiramadhan_19104075.home.databinding.FragmentNotificationsBinding
+com/faizzakiramadhan_19104075/home/databinding/FragmentHomeBinding.java
+ com.faizzakiramadhan_19104075.home.databinding.FragmentHomeBinding
+com/faizzakiramadhan_19104075/home/databinding/ActivityMainBinding.java
+ com.faizzakiramadhan_19104075.home.databinding.ActivityMainBinding
+com/faizzakiramadhan_19104075/home/BuildConfig.java
+ com.faizzakiramadhan_19104075.home.BuildConfig
+com/faizzakiramadhan_19104075/home/databinding/FragmentDashboardBinding.java
+ com.faizzakiramadhan_19104075.home.databinding.FragmentDashboardBinding
