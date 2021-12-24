@@ -15,7 +15,7 @@
        app:layout_constraintBottom_toBottomOf="parent"
        app:layout_constraintStart_toStartOf="parent"
        app:layout_constraintTop_toTopOf="parent"
-       app:layout_constraintVertical_bias="0.005" />
+       app:layout_constraintVertical_bias="0.0" />
 
    <ImageButton
        android:id="@+id/imageButton"
@@ -25,10 +25,10 @@
        android:src="@drawable/ic_notifications_black_24dp"
        app:layout_constraintBottom_toBottomOf="@+id/chip4"
        app:layout_constraintEnd_toEndOf="parent"
-       app:layout_constraintHorizontal_bias="0.913"
+       app:layout_constraintHorizontal_bias="0.923"
        app:layout_constraintStart_toEndOf="@+id/chip4"
        app:layout_constraintTop_toTopOf="@+id/chip4"
-       app:layout_constraintVertical_bias="0.036" />
+       app:layout_constraintVertical_bias="0.411" />
 
    <TextView
        android:id="@+id/textView"
@@ -48,7 +48,7 @@
        android:id="@+id/textView2"
        android:layout_width="wrap_content"
        android:layout_height="wrap_content"
-       android:layout_marginTop="21dp"
+       android:layout_marginTop="10dp"
        android:text="Mau Makan Apa?"
        app:layout_constraintBottom_toBottomOf="parent"
        app:layout_constraintStart_toStartOf="@+id/textView"
@@ -60,7 +60,7 @@
        android:layout_width="wrap_content"
        android:layout_height="wrap_content"
        android:layout_marginStart="16dp"
-       android:layout_marginTop="30dp"
+       android:layout_marginTop="20sp"
        android:src="@drawable/favorite"
        app:layout_constraintBottom_toBottomOf="parent"
        app:layout_constraintStart_toStartOf="parent"
@@ -96,11 +96,11 @@
        android:layout_height="wrap_content"
        android:layout_marginStart="16dp"
        android:text="Today's Promo"
-       android:textSize="25sp"
+       android:textSize="20sp"
        app:layout_constraintBottom_toBottomOf="parent"
        app:layout_constraintStart_toStartOf="parent"
        app:layout_constraintTop_toBottomOf="@+id/imageButton3"
-       app:layout_constraintVertical_bias="0.118" />
+       app:layout_constraintVertical_bias="0.071" />
 
    <TextView
        android:id="@+id/textView4"
