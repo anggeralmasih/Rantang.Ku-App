@@ -1,0 +1,2 @@
+com/angger_19104073/rantangku/BuildConfig.java
+ com.angger_19104073.rantangku.BuildConfig
